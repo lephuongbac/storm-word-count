@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <properties>
         <java.version>1.8</java.version>
-        <storm.version>2.0.0</storm.version>
+        <storm.version>2.6.0</storm.version>
     </properties>
     <dependencies>
         <dependency>
